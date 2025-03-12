@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequentialStructure5", "SequentialStructure5.csproj", "{0433E489-C99C-45BA-91B3-62779850BB3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0433E489-C99C-45BA-91B3-62779850BB3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0433E489-C99C-45BA-91B3-62779850BB3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0433E489-C99C-45BA-91B3-62779850BB3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0433E489-C99C-45BA-91B3-62779850BB3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0273A172-D93A-4E1A-8CDF-A85ECBC14A5B}
+	EndGlobalSection
+EndGlobal
